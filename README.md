@@ -2,4 +2,4 @@
 
 I am Joanne. I am a girl.
 
-I am graduated from SFU.
+:
